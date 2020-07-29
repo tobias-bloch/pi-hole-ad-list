@@ -2,3 +2,4 @@
 0.0.0.0 hanime.tv
 0.0.0.0 freeuse.me
 0.0.0.0 beap.gemini.yahoo.com
+0.0.0.0 ad.doubleclick.net
